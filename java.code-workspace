@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "./java/HelloWorld/"
+		},
+		{
+			"path": "SampleProject"
+		},
+		{
+			"path": "java/M5_test1"
+		},
+		{
+			"path": "java/M5_test2"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
